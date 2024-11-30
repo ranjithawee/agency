@@ -1,0 +1,351 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+   /* header */
+   .menu ul li a {
+    margin: 0;
+    font-size: 18px;
+    padding: 8px 0 !important;
+} 
+.logo {
+    width: 136px;
+}
+/* banner */
+.banner_content {
+    padding: 70px 0;
+}
+.banner_content h1 {
+    font-size: 35px;
+    line-height: 50px;
+}  
+.banner_content p {
+    margin: 22px 0px 30px !important;
+}
+/* solutions */
+.cm_padding {
+    padding: 60px 0 0;
+}
+.cm_heading{
+    margin-bottom: 25px !important;
+}
+.s_heading p {
+    font-size: 16px;
+}
+.s_heading h2 {
+    font-size: 22px;
+    line-height: 30px;
+}
+.s_content, .cm_sm_content{
+    margin: 25px 0;
+}
+.cm_h2 {
+    font-size: 25px;
+}
+.s_content p {
+    font-size: 16px;
+}
+.cm_btnText {
+    font-size: 18px;
+}
+.s_icon {
+    text-align: center !important;
+}
+.service_content {
+    text-align: center;
+}
+/* experience */
+.ex_img {
+    margin: 0;
+    padding: 25px 30px 50px;
+}
+.ex_content {
+    text-align: center;
+    margin: 0;
+}
+/* project */
+.project{
+    padding-top: 40px;
+}
+/* event */
+.mt_even{
+    margin-top: 0 !important;
+}
+
+/* team work */
+.team_content{
+    margin-top: 5px;
+}
+.team_content h3 {
+    text-align: center;
+}
+.team_content p {
+    text-align: center;
+}
+/* opinion */
+.cm_h3{
+    font-size: 22px;
+}
+.o_img{
+    margin-bottom: 0;
+    width: 30%;
+    margin: 0 auto;
+}
+.o_content{
+    text-align: center;
+}
+.clint_img{
+    margin: 0 45px;
+}
+.clint{
+    padding: 5px;
+}
+/* article */
+.articles_content{
+    margin-top: 15px !important;
+    padding: 0;
+    text-align: center;
+}
+/* get in touch */
+.c_gtt {
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+.gtt {
+    text-align: center;
+}
+.gtt_btn {
+    margin-bottom: 30px;
+    margin-top: 15px;
+    text-align-last: center;
+}
+/* footer */
+.footer_content{
+    text-align: center;
+}
+.social_icon {
+    padding-right: 0 !important;
+    justify-content: center;
+}
+.copy_right {
+    font-size: 16px;
+}
+
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+   /* header */
+   .menu ul li a {
+    margin: 0;
+    padding: 10px 0 !important;
+} 
+/* banner */
+.banner_content {
+    padding: 80px 0;
+}
+.banner_content h1 {
+    font-size: 40px;
+    line-height: 50px;
+}  
+.banner_content p {
+    margin: 22px 0px 30px !important;
+}
+/* solutions */
+.cm_padding {
+    padding: 60px 0 0;
+}
+.cm_heading{
+    margin-bottom: 25px !important;
+}
+.s_heading p {
+    font-size: 16px;
+}
+.s_heading h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.s_content, .cm_sm_content{
+    margin: 25px 50px;
+}
+.cm_h2 {
+    font-size: 25px;
+}
+.s_content p {
+    font-size: 16px;
+}
+.cm_btnText {
+    font-size: 18px;
+}
+.s_icon {
+    text-align: center !important;
+}
+.service_content {
+    text-align: center;
+}
+/* experience */
+.c_order_0{
+    order: 0 !important;
+}
+.c_order_1{
+    order: 1 !important;
+}
+.c_order_2{
+    order: 2 !important;
+}
+.c_order_3{
+    order: 3 !important;
+}
+.c_order_4{
+    order: 4 !important;
+}
+.c_order_5{
+    order: 5 !important;
+}
+.ex_img {
+    margin: 0 50px;
+    padding: 25px 30px 50px;
+}
+.ex_content {
+    text-align: center;
+    margin: 0 50px 0 50px;
+}
+/* project */
+.project{
+    padding-top: 40px;
+}
+/* event */
+.mt_even{
+    margin-top: 0 !important;
+}
+
+
+.evnet_p{
+    padding: 0;
+}
+/* opinion */
+.cm_h3{
+    font-size: 22px;
+}
+.o_img{
+    margin-bottom: 0;
+    width: 15%;
+    margin: 0 auto;
+}
+.o_content {
+    text-align: center;
+}
+.clint_img{
+    margin: 0;
+}
+/* get in touch */
+/* get in touch */
+.c_gtt {
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+ 
+.gtt {
+    text-align: center;
+}
+.gtt_btn {
+    margin-bottom: 30px;
+    margin-top: 15px;
+    text-align-last: center;
+}
+/* footer */
+.footer_content{
+    text-align: center;
+}
+.social_icon {
+    padding-right: 0 !important;
+    justify-content: center;
+}
+
+
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+   /* header */
+   .menu ul li a {
+    margin: 0;
+    padding: 15px 0 !important;
+}
+/* banner */
+.banner_content {
+    padding: 80px 0;
+}
+.banner_content h1 {
+    font-size: 40px;
+    line-height: 50px;
+}  
+.banner_content p {
+    margin: 22px 0px 30px !important;
+}
+.banner_img {
+    margin: 80px 40px 0;
+}
+/* solutions */
+.cm_padding {
+    padding: 80px 0 0;
+}
+.cm_heading{
+    margin-bottom: 25px !important;
+}
+.s_heading h2 {
+    font-size: 40px;
+}
+.cm_h2 {
+    font-size: 25px;
+}
+.s_content p {
+    font-size: 16px;
+}
+.cm_btnText {
+    font-size: 18px;
+}
+/* experience */
+.ex_img {
+    padding: 25px 30px 50px;
+}
+.ex_content {
+    margin: 16px 0 0 0;
+}
+/* event */
+.event_content {
+    margin: 30px 0 0 0;
+}
+
+.evnet_p{
+    padding: 0;
+}
+/* opinion */
+.cm_h3{
+    font-size: 22px;
+}
+/* get in touch */
+.c_gtt {
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+ 
+   
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+  
+ 
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+  
+
+
+ }
+
+
+/* Extra Estra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+
+  
+ }
